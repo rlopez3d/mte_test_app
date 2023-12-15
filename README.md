@@ -5,3 +5,6 @@ This repository will initially contain only the apk of the MTE test application.
 
 This repository will share later the source code of the application for a new Learning Path that will showcase how to debug applications in Android Studio with MTE enabled.
 
+The picture below shows the screenshot of the MTE_test app running on Pixel 8 Pro.
+
+![Screenshot](images/MTE_test_app.png "Screenshot")
